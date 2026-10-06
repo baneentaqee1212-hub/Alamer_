@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALAMER Caller</string>
+    <string name="taloola_pos">Taloola POS</string>
+    <string name="caller_assistant">ALAMER Caller Assistant</string>
+    <string name="status_uninitialized">غير مهيأ</string>
+    <string name="status_needs_pairing">بانتظار مسح رمز QR</string>
+    <string name="status_pairing">جارٍ الاقتران...</string>
+    <string name="status_pairing_success">تم الاقتران بنجاح</string>
+    <string name="status_connecting">جارٍ الاتصال...</string>
+    <string name="status_authenticating">جارٍ المصادقة مع Taloola...</string>
+    <string name="status_ready">متصل ومستقر (جاهز للمكالمات)</string>
+    <string name="status_network_unavailable">شبكة Wi-Fi غير متاحة</string>
+    <string name="status_server_unavailable">الخادم غير متاح</string>
+    <string name="status_server_id_mismatch">معرف الخادم مختلف</string>
+    <string name="status_credential_invalid">بيانات الاعتماد غير صالحة</string>
+    <string name="status_device_revoked">تم إلغاء ترخيص الجهاز</string>
+    <string name="status_protocol_mismatch">إصدار البروتوكول غير متوافق</string>
+    <string name="status_needs_repair">يتطلب إعادة الاقتران</string>
+    <string name="server_not_found_lan">لم يتم العثور على خادم Taloola على الشبكة المحلية</string>
+    <string name="no_previous_call_session">لا توجد جلسات مكالمات سابقة</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix ALAMER Caller",
+  "description": "ALAMER Caller Assistant for Taloola POS - Reliable LAN trust pairing, incoming call dispatcher, and live customer context",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
